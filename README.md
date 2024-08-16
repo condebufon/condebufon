@@ -12,3 +12,9 @@ Soy un profesional con más de 13 años de experiencia en mantenimiento correcti
 ✅ Python
 ✅ HTML/CSS
 ✅ Mysql
+
+![condebufon's Stats](https://github-readme-stats.vercel.app/api?username=condebufon&theme=highcontrast&show_icons=true&hide_border=false&count_private=true)
+
+![condebufon's Streak](https://github-readme-streak-stats.herokuapp.com/?user=condebufon&theme=highcontrast&hide_border=false)
+
+![condebufon's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=condebufon&theme=highcontrast&show_icons=true&hide_border=false&layout=compact)
