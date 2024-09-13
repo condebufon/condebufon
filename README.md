@@ -11,6 +11,7 @@ Soy un profesional con más de 13 años de experiencia en mantenimiento correcti
 ✅ Python
 ✅ HTML/CSS
 ✅ Mysql
+✅ GML (Game Maker Studio2)
 
 ![condebufon's Stats](https://github-readme-stats.vercel.app/api?username=condebufon&theme=highcontrast&show_icons=true&hide_border=false&count_private=true)
 
